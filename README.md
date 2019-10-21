@@ -19,4 +19,6 @@ Made Just For Fun :P
 
 If You want to check out the admin panel <br/> Contact me for username and password <br/>
 ## Example Images
-![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage1.png) ![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage2.png)
+
+* Blog Page ![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage1.png)
+* Admin Panel ![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage2.png)
