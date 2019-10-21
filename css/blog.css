@@ -1,0 +1,54 @@
+.navline{
+  height: 10px;
+  background: #27aae1;
+}
+
+.line2{
+  margin-top: -20px;
+}
+li{
+  font-weight: bold;
+  font-family: Georgia,Times,serif;
+  font-size: 1.2em;
+}
+.col-sm-8{
+
+}
+.col-sm-3{
+
+}
+#footer{
+  padding: 10px;
+  border-top: 1px solid black;
+  color: #eeeeee;
+  background-color: #211f22;
+  text-align: center;
+}
+.blog-post{
+  background-color: #f5f5f5;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  overflow: hidden;
+}
+#heading{
+  font-family: Bitter,Georgia,Times,serif;
+  font-weight: bold;
+  color: #005E90;
+}
+#heading:hover{
+  color: #0090DB;
+}
+.description{
+  color: #868686;
+  font-weight: bold;
+  margin-top: -2px;
+}
+.post{
+  font-size:1.1em;
+  font-family: "Lucida sans Unicode","Lucia Grande",sans-serif;
+  text-align: justify;
+}
+.btn-info{
+  float: right;
+}
