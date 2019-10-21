@@ -11,3 +11,12 @@ Made Just For Fun :P
 
 ## Website Link
 * Link to the Website: https://hritiksblogweb.000webhostapp.com/Blog.php
+
+## Special Features
+* Admin Panel With full control of the Blog.
+* Data stored securely in the database.
+* Completely Responsive.
+
+If You want to check out the admin panel <br/> Contact me for username and password <br/>
+![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage1.png)
+![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage2.png)
