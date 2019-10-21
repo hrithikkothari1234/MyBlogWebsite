@@ -18,5 +18,5 @@ Made Just For Fun :P
 * Completely Responsive.
 
 If You want to check out the admin panel <br/> Contact me for username and password <br/>
-![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage1.png)
-![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage2.png)
+## Example Images
+![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage1.png) ![alt text](https://raw.githubusercontent.com/hrithikkothari1234/MyBlogWebsite/master/exampleimage2.png)
