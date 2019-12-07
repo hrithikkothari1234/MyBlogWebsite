@@ -1,5 +1,5 @@
 # My Blog Website
-Made Just For Fun :P
+Its a bit older code , so not very organized :P
 
 ## Used
 * Html5
